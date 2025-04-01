@@ -16,8 +16,8 @@ const Header = () => {
         className="flex justify-start items-center
       text-xl text-black space-x-1"
       >
-        <span>Genesis</span>
-        <TbBusinessplan />
+        <span>Blockchain PBL</span>
+        {/* <TbBusinessplan /> */}
       </Link>
 
       <div className="flex space-x-2 justify-center">
